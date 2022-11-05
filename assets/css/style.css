@@ -169,7 +169,7 @@ color: linear-gradient(90deg, rgba(111,4,137,1) 0%, rgba(0,201,190,1) 50%);
     height: 100%;
     margin-right: -260px;
     overflow-y: auto;
-    background: linear-gradient(90deg, rgba(111,4,137,1) 0%, rgba(0,201,190,1) 50%);
+    background: #073c77;
     z-index: 99999999;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
@@ -814,8 +814,10 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 
 #footer {
-    background: #00967f;
-    padding: 20px 0px 22px 0px;
+    background: #073c77;
+background: #073c77;
+   
+    padding: 10px 0px 10px 0px;
 }
 .footer-logo {
     font-size: 27px;
@@ -824,7 +826,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 }
 
 .footer-logo a:hover {
-    color: #00ceb8;
+    color: #073c77;
 }
 
 .footer-logo a {
@@ -835,7 +837,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     color: #fff;
     text-align: right;
     font-size: 18px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 #footer span{
     color: #e9e9e9;
